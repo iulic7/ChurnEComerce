@@ -1,1 +1,4 @@
+În aceste document sunt 2 fișiere Excel care includ unle transformării a setului de date inițila pentru a face posibilă foloisrea acestora în antrenarea modelelor
+În fișierul joupiter notebook este descrisă etapele de: trasformarea a datelor, scalare, onehotencoding, precum și implementarea a 4 modle, rgresia logisitcă, Random Forest, Rețele Neuronale, și Support Vector Machine
+A fost efectuată evaluare fiecărui model individual, precum și pentru toate modelele o data
 
