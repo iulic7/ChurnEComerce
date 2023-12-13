@@ -1,1 +1,2 @@
-
+În fișierele lucruIndividual - este efectuată analiza inițială a datelor, pentru a înțelege mai bine legăturile între caracteristici
+În fișierul ImplementareaModelelor - este efectuată preprocesarea datelor și modelararea prin regresiel logisitca și Random Forest precum și Evalaurea acestora
